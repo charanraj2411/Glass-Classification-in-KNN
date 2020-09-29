@@ -1,7 +1,7 @@
 Glass-Classification-in-KNN
 
-Language : Python
-Libaries : pandas , numpy , matplotlib , sns , sklearn
+Language  Python
+Libaries  pandas , numpy , matplotlib , sns , sklearn
 
 
 We want to classify the Glass into various types based on the composition of elements present in it .
