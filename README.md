@@ -1,4 +1,4 @@
-# Glass-Classification-in-KNN
+Glass-Classification-in-KNN
 
 Language : Python 
 Libraries : Numpy , pandas , matplotlib , sns , skearn
